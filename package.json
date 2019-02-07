@@ -1,0 +1,11 @@
+{
+  "name": "exercise1",
+  "version": "1.0.0",
+  "description": "redo the code that we did in the class",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shuhao Bai",
+  "license": "ISC"
+}
