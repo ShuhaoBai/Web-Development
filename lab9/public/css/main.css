@@ -1,0 +1,62 @@
+h1 {
+    text-align: left;
+    color : blueviolet;
+    background: #00E676;
+    font-size: 4rem;
+    font-weight: 1000;
+}
+
+#attempts .is-prime {
+    color: #00E676;
+    font-weight: bold;
+    font-size: 40px
+}
+
+#attempts .not-prime {
+    color: #FF3D00;
+    font-weight: bold;
+    font-size: 20px
+}
+
+#prime-label {
+    font-size: 4rem;
+    color: red
+}
+
+
+#action{
+    background: lightgray
+}
+
+footer {
+    font-family: 'Times New Roman', Times;
+    font-size: 4rem;
+    background:pink;
+}
+
+
+.button {
+    display: -moz-grid;
+    font-size: 30px;
+    background-color: blue;
+    border-radius: 20px;
+    padding: 40px
+}
+
+body {
+    background-color: yellow
+}
+
+.text{
+    background-color: lightyellow;
+    font-size: 40px;
+    color: red;
+    padding: 30px
+}
+
+.button:hover{
+    background-color: lightgreen;
+}
+
+
+
